@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container{
+   display: flex;
+   /* justify-content:space-between; */
+   align-items: center;
+}
+.weather{
+    position:fixed;
+    height: 100vh;
+    width:50vh;
+    background-color:rgb(40, 192, 242);
+}
+.search{
+    margin: 2rem  0 0 2rem ;
+}
+.search input{
+   height: 3rem;
+   width: 15rem;
+   border-radius: 0.74rem; 
+   border: none;
+   outline: none;
+   padding-left: 1rem;
+   font-size: 1rem;
+}
+button{
+    height: 3rem;
+    width: 3rem;
+    border-radius: 50%;
+    border: none;
+    outline: none;
+    padding: 0.75rem;
+}
+#icon{
+    height: 1.5rem;
+    width: 1.5rem;
+}
+
+.weather-body{
+    height: 80vh;
+}
+
+.img{
+    margin-left: 1.5rem;
+    height: 40vh;
+    width: 40vh;
+}
+.weather-para{
+    font-size: 1rem;
+    margin-left: 2rem;
+}
+.degree{
+    font-size: 4.5rem;
+    font-weight: bold;
+}
+hr{
+    margin-top:2rem ;
+    width : 20rem;
+}
+.date{
+    margin: 2rem 0 0.5rem 0;
+}
+
+.options{
+    width: 150vh;
+    height: 100vh;
+    margin-left: 55vh;
+}
+.options-div{
+    display: flex;
+    margin-top: 1.5rem;
+    flex-wrap:wrap ;
+    padding-left: 1.5rem;
+}
+.box{
+    height: 10rem;
+    width: 20rem;
+    border-radius: 1rem;
+    background-color: rgb(40, 192, 242);
+    padding-top: 2rem;
+    margin: 0.5rem;
+    text-align: center;
+    
+}
+.name{
+    font-size: 1rem;
+    margin-bottom: 1rem;
+}
+.box i{
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+.sun{
+    display:flex ;
+    margin-left: 5rem;
+    margin-bottom: 1rem;
+}
+.details{
+    margin-left: 1rem;  
+}
+.number{
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+.boxes{
+    height: 10rem;
+    width: 15rem;
+    border-radius: 1rem;
+    background-color: rgb(40, 192, 242);
+    padding-top: 1.5rem;
+    margin: 0.5rem;
+    text-align: center;
+}
+
+
+.week-updates img{
+    width: 4rem;
+    height: 4rem;
+}
+
+.info{
+    font-size:0.9rem ;
+    margin-bottom: 1rem;
+    font-style: italic;
+    color: rgb(101, 106, 110);
+}
