@@ -7,4 +7,7 @@
   <li>Javascript</li>
 </ul>
 <p> The weather forecasting API is used to fetch the weather conditions of any particular city</p>
-![image alt](![Screenshot 2024-09-18 144936](https://github.com/user-attachments/assets/ccbf07cb-d208-4a33-9d22-cf1a8104eab3))
+
+![Screenshot 2024-09-18 144936](https://github.com/user-attachments/assets/e63705ce-d3a2-41c4-abc5-0290372ab7c0)
+
+![Screenshot 2024-09-18 145000](https://github.com/user-attachments/assets/ec43500f-2941-42ba-a5b6-6709106dbf0c)
